@@ -1,5 +1,5 @@
 # Web-Scrapers
-Web Scraping for Machine Learning datasets and required unstructered data
+Web scraping is an important skill for any data scientist to have in their toolbox. Web scraping can be used to collect data about products for sale, user posts, images, and pretty much anything else that is useful on the web. If using a web scraper, just keep in mind that some websites do not want anyone to scrape their sites and when a website updates, you may need to alter your web scraper.
 
 # Scrape0.py
 The first step is to import the requests library and download the webpage.Save the file and run this script from your command line and you should see the entire HTML of the page spilled out.
